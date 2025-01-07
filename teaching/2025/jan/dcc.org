@@ -53,7 +53,7 @@ computers consume data. We also use programs that help us consume
 data, for example, spreadsheet programs.
 
 For presenting the same value, there are usually many choices. For
-example, we represent by 42 and LXII the same value. The place-value
+example, we represent by 42 and XLII the same value. The place-value
 system won because it was compact and it was convenient to do
 arithmetic on it. As programmers, we must learn to evaluate various
 representations and choose the best one for our requirements.
